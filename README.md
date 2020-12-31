@@ -1,5 +1,5 @@
-### Hi there 👋
-#### Let's succeed
+
+### Let's succeed :trident:
 
 Abouts..
 
