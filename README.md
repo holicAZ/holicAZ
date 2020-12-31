@@ -10,3 +10,4 @@ Abouts..
 - 📫 How to reach me: email to me
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=holicAZ)](https://github.com/anuraghazra/github-readme-stats)
