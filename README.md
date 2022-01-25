@@ -4,7 +4,7 @@
 Abouts..
 
 - 🔭 I’m currently working on application
-- 🌱 I’m currently learning MariaDB and Java
+- 🌱 I’m currently Vue framework
 - 👯 I’m looking to collaborate on Web or android APP develope
 - 💬 Ask me about anything. I will do my best to help
 - 📫 How to reach me: email to me
